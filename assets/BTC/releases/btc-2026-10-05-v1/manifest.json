@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "release_id": "btc-2026-10-05-v1",
+  "asset": "BTC",
+  "status": "VERIFIED",
+  "files": [
+    {
+      "path": "chart.json",
+      "bytes": 43469,
+      "sha256": "737e45ba9ed303a1208904aa3985a0c58d15fd94679d95635f738ff3d5170495"
+    },
+    {
+      "path": "chart.csv",
+      "bytes": 1261,
+      "sha256": "59471707dc3225abee87ae4a3cef08c5eb8c5ca9d807a203b0fb00647e3cfc58"
+    }
+  ]
+}

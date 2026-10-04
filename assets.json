@@ -1,0 +1,11 @@
+{
+  "schema_version": "1.0.0",
+  "assets": {
+    "ETH": {
+      "latest_path": "latest.json"
+    },
+    "BTC": {
+      "latest_path": "assets/BTC/latest.json"
+    }
+  }
+}
