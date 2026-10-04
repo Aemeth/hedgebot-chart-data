@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "release_id": "2026-10-02-v2",
-  "chart_path": "releases/2026-10-02-v2/chart.json",
-  "manifest_path": "releases/2026-10-02-v2/manifest.json",
-  "chart_sha256": "7dd151096a78af490f994b993a23e5ff98c3e6c224ffb301948873f03060743e"
+  "release_id": "2026-10-04-v1",
+  "chart_path": "releases/2026-10-04-v1/chart.json",
+  "manifest_path": "releases/2026-10-04-v1/manifest.json",
+  "chart_sha256": "91c3b7a5bcd30051fff48ee3fd49f00d23a60d43291cc35290f60825a88b4644"
 }
