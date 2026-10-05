@@ -6,6 +6,10 @@
     },
     "BTC": {
       "latest_path": "assets/BTC/latest.json"
+    },
+    "SOL": {
+      "latest_path": "assets/SOL/latest.json"
     }
   }
 }
+
