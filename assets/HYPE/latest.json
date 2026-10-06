@@ -1,0 +1,8 @@
+{
+  "schema_version": "1.0.0",
+  "asset": "HYPE",
+  "release_id": "hype-2026-10-07-v1",
+  "chart_path": "assets/HYPE/releases/hype-2026-10-07-v1/chart.json",
+  "manifest_path": "assets/HYPE/releases/hype-2026-10-07-v1/manifest.json",
+  "chart_sha256": "b697bfc17d854d6d09990babee5b12e538239983b814b285afe6e706f887e91f"
+}

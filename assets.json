@@ -9,7 +9,9 @@
     },
     "SOL": {
       "latest_path": "assets/SOL/latest.json"
+    },
+    "HYPE": {
+      "latest_path": "assets/HYPE/latest.json"
     }
   }
 }
-
