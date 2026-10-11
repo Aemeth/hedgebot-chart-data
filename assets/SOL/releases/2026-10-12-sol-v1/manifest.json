@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "asset": "SOL",
+  "release_id": "2026-10-12-sol-v1",
+  "status": "VERIFIED",
+  "files": [
+    {
+      "path": "chart.json",
+      "bytes": 44950,
+      "sha256": "d75061b11a512fbc6b8bccdf9ff6c6df4bcb8f42432370862da97031cf0754f4"
+    },
+    {
+      "path": "chart.csv",
+      "bytes": 3446,
+      "sha256": "43f4764ab14c077c9577cb8d2823198dcfd4c94805bdcd0fdbec6b749201ff05"
+    }
+  ]
+}
