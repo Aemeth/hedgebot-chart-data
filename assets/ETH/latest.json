@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "asset": "ETH",
-  "release_id": "2026-10-05-v1",
-  "chart_path": "assets/ETH/releases/2026-10-05-v1/chart.json",
-  "manifest_path": "assets/ETH/releases/2026-10-05-v1/manifest.json",
-  "chart_sha256": "25e66262f1e6fd204d3eb6de404c35fb30ae7497fc827bce7680fc7039ddb5f1"
+  "release_id": "2026-10-12-v1",
+  "chart_path": "assets/ETH/releases/2026-10-12-v1/chart.json",
+  "manifest_path": "assets/ETH/releases/2026-10-12-v1/manifest.json",
+  "chart_sha256": "c636d7c2462700ffb39e42f0c89412c268ee257116d6c5cda6f49a31eb94b41a"
 }
