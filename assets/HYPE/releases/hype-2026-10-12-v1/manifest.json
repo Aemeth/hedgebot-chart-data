@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "release_id": "hype-2026-10-12-v1",
+  "asset": "HYPE",
+  "status": "VERIFIED",
+  "files": [
+    {
+      "path": "chart.json",
+      "bytes": 45653,
+      "sha256": "010140f8704120859a37992ff048e5d49801b565d0bbac1f57f88f06c2bbe0a0"
+    },
+    {
+      "path": "chart.csv",
+      "bytes": 3675,
+      "sha256": "01fa28a6357b6aaa557e4a7a67a8e7bc756a56c1bd0d5e4809439de3e4126ee8"
+    }
+  ]
+}
