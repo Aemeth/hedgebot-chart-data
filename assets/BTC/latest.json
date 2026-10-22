@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "asset": "BTC",
-  "release_id": "btc-2026-10-22-v1",
-  "chart_path": "assets/BTC/releases/btc-2026-10-22-v1/chart.json",
-  "manifest_path": "assets/BTC/releases/btc-2026-10-22-v1/manifest.json",
-  "chart_sha256": "64ccee250c2c160715ddd079d960dc5b79d9800c35232110eafbff2bad517511"
+  "release_id": "btc-2026-10-22-v2",
+  "chart_path": "assets/BTC/releases/btc-2026-10-22-v2/chart.json",
+  "manifest_path": "assets/BTC/releases/btc-2026-10-22-v2/manifest.json",
+  "chart_sha256": "8ff8739bae40a35f4000f0fb31216e21332aa389b53ec2c2e95301a3d15b47b1"
 }
