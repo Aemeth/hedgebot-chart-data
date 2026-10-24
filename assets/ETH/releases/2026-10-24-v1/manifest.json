@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0.0",
+  "release_id": "2026-10-24-v1",
+  "status": "VERIFIED",
+  "files": [
+    {
+      "path": "chart.json",
+      "bytes": 45109,
+      "sha256": "748c714cb7c86deeb3f666b160552aeb55280b312dceb3e5bab8361c088fa41e"
+    },
+    {
+      "path": "chart.csv",
+      "bytes": 3764,
+      "sha256": "37c0b5edd6d222262e100be54511c292e31cb5304913f3e0a79d692202b87796"
+    }
+  ]
+}
