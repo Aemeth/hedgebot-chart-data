@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0.0",
+  "release_id": "btc-2026-11-05-v1",
+  "status": "VERIFIED",
+  "files": [
+    {
+      "path": "chart.json",
+      "bytes": 46972,
+      "sha256": "c0cde9b1c17546629532e48b95e44c37207f3880061e149beed91033b0ef8c7f"
+    },
+    {
+      "path": "chart.csv",
+      "bytes": 3462,
+      "sha256": "f370c8a0fac451564a95590a07f4bf929b683cd198c13aabc3db72d6c70d6f35"
+    }
+  ]
+}
