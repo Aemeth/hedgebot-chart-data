@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0.0",
+  "release_id": "2026-11-11-eth-phase-curves-v2",
+  "asset": "ETH",
+  "status": "VERIFIED",
+  "files": [
+    {
+      "path": "chart.json",
+      "bytes": 45162,
+      "sha256": "171a3b7167011862b6c24307954d9597b665180d4dec507650045f14a5f1c2e6"
+    },
+    {
+      "path": "chart.csv",
+      "bytes": 3752,
+      "sha256": "1002b25795e4295aa460c7bc2b8b7c5dd9c0e796587dd3ee3153f0242430654e"
+    },
+    {
+      "path": "phases.json",
+      "bytes": 287323,
+      "sha256": "e33111f951423e10d377277ee200c24b987081f045d1a0afa0d6e924c1563c41"
+    }
+  ]
+}
