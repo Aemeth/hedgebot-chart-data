@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0.0",
+  "release_id": "2026-11-11-btc-phases-v1",
+  "asset": "BTC",
+  "status": "VERIFIED",
+  "files": [
+    {
+      "path": "chart.json",
+      "bytes": 47081,
+      "sha256": "4d2018b4442c5962354854fa3511dd8a4c034533c03cd6e088a28f21b5a2cbd4"
+    },
+    {
+      "path": "chart.csv",
+      "bytes": 3545,
+      "sha256": "2cf09232488dd722cf7a70cbc9788031939841c6d581015913d9fd5fa07682c0"
+    },
+    {
+      "path": "phases.json",
+      "bytes": 297827,
+      "sha256": "d25960804c8610f613a3440cd9b5e339f0c59df8168c54ba3f27496676255691"
+    }
+  ]
+}

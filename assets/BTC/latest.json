@@ -1,8 +1,10 @@
 {
   "schema_version": "1.0.0",
   "asset": "BTC",
-  "release_id": "btc-2026-11-08-v1",
-  "chart_path": "assets/BTC/releases/btc-2026-11-08-v1/chart.json",
-  "manifest_path": "assets/BTC/releases/btc-2026-11-08-v1/manifest.json",
-  "chart_sha256": "78d845ea960bd1346d52f3800e681476112dd696721479712847510b50e972ca"
+  "release_id": "2026-11-11-btc-phases-v1",
+  "chart_path": "assets/BTC/releases/2026-11-11-btc-phases-v1/chart.json",
+  "manifest_path": "assets/BTC/releases/2026-11-11-btc-phases-v1/manifest.json",
+  "chart_sha256": "4d2018b4442c5962354854fa3511dd8a4c034533c03cd6e088a28f21b5a2cbd4",
+  "phases_path": "assets/BTC/releases/2026-11-11-btc-phases-v1/phases.json",
+  "phases_sha256": "d25960804c8610f613a3440cd9b5e339f0c59df8168c54ba3f27496676255691"
 }
