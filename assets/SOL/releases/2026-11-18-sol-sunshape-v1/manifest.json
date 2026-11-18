@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0.0",
+  "release_id": "2026-11-18-sol-sunshape-v1",
+  "asset": "SOL",
+  "status": "VERIFIED",
+  "files": [
+    {
+      "path": "chart.json",
+      "bytes": 41037,
+      "sha256": "19e5f74020c4d38bf6f713c37982dd7adc9495cc75e4fb13a3d0de3bdb3c17ab"
+    },
+    {
+      "path": "chart.csv",
+      "bytes": 2894,
+      "sha256": "ded8edbad06fcebfb0eb3e9ec2d885b649cc364529008a2180b76a5854d8c718"
+    },
+    {
+      "path": "phases.json",
+      "bytes": 267405,
+      "sha256": "8cd96cfa8d032457ca939e79cf65d0a620c682a1e174438a25809be3f93c6009"
+    }
+  ]
+}
