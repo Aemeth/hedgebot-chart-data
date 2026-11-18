@@ -1,8 +1,10 @@
 {
   "schema_version": "1.0.0",
   "asset": "SOL",
-  "release_id": "2026-10-12-sol-v1",
-  "chart_path": "assets/SOL/releases/2026-10-12-sol-v1/chart.json",
-  "manifest_path": "assets/SOL/releases/2026-10-12-sol-v1/manifest.json",
-  "chart_sha256": "d75061b11a512fbc6b8bccdf9ff6c6df4bcb8f42432370862da97031cf0754f4"
+  "release_id": "2026-11-18-sol-five-anchors-v1",
+  "chart_path": "assets/SOL/releases/2026-11-18-sol-five-anchors-v1/chart.json",
+  "manifest_path": "assets/SOL/releases/2026-11-18-sol-five-anchors-v1/manifest.json",
+  "chart_sha256": "db0baccabc79546119fdf9f4998d86be120da6c459f26448e1b675f7fe399ef0",
+  "phases_path": "assets/SOL/releases/2026-11-18-sol-five-anchors-v1/phases.json",
+  "phases_sha256": "99a78fb46062d88c3c0cd3f5a283ccb43d4ef38f1cbe56d1b351162c562aaf52"
 }
