@@ -1,8 +1,10 @@
 {
   "schema_version": "1.0.0",
   "asset": "HYPE",
-  "release_id": "hype-2026-10-12-v1",
-  "chart_path": "assets/HYPE/releases/hype-2026-10-12-v1/chart.json",
-  "manifest_path": "assets/HYPE/releases/hype-2026-10-12-v1/manifest.json",
-  "chart_sha256": "010140f8704120859a37992ff048e5d49801b565d0bbac1f57f88f06c2bbe0a0"
+  "release_id": "2026-11-20-hype-five-anchors-v1",
+  "chart_path": "assets/HYPE/releases/2026-11-20-hype-five-anchors-v1/chart.json",
+  "manifest_path": "assets/HYPE/releases/2026-11-20-hype-five-anchors-v1/manifest.json",
+  "chart_sha256": "216d1076ae48d2cf34643c916ff6ed67e284c26062400bb64dce80a0894e7162",
+  "phases_path": "assets/HYPE/releases/2026-11-20-hype-five-anchors-v1/phases.json",
+  "phases_sha256": "205052cf3f2ea2cb920e7b802d2db33da83ab4bed6f36ca2afbe218385cc4610"
 }

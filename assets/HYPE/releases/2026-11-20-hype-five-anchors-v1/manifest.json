@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0.0",
+  "release_id": "2026-11-20-hype-five-anchors-v1",
+  "asset": "HYPE",
+  "status": "VERIFIED",
+  "files": [
+    {
+      "path": "chart.json",
+      "bytes": 64377,
+      "sha256": "216d1076ae48d2cf34643c916ff6ed67e284c26062400bb64dce80a0894e7162"
+    },
+    {
+      "path": "chart.csv",
+      "bytes": 2995,
+      "sha256": "d63be8ffd31da788ca9a614ca3906e054d474935c937caa1ba3d89b6120b810a"
+    },
+    {
+      "path": "phases.json",
+      "bytes": 433682,
+      "sha256": "205052cf3f2ea2cb920e7b802d2db33da83ab4bed6f36ca2afbe218385cc4610"
+    }
+  ]
+}
