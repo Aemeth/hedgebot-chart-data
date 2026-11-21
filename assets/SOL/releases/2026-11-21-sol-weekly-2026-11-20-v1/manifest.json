@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0.0",
+  "release_id": "2026-11-21-sol-weekly-2026-11-20-v1",
+  "asset": "SOL",
+  "status": "VERIFIED",
+  "files": [
+    {
+      "path": "chart.json",
+      "bytes": 41039,
+      "sha256": "c702bddb34051e3332176efac79c73b5ca1e12fbe03de7cdba513170205c53fc"
+    },
+    {
+      "path": "chart.csv",
+      "bytes": 2886,
+      "sha256": "d6c8132a77633bec610d51afee1a7615d1899bd46ed9722f9aa4091366eb54a3"
+    },
+    {
+      "path": "phases.json",
+      "bytes": 267426,
+      "sha256": "ef8ef4de23591994908323bbfe7fcecec51afbccdb5fc9ed46ed44ad019f8d5b"
+    }
+  ]
+}
