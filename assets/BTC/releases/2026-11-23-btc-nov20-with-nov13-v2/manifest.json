@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0.0",
+  "release_id": "2026-11-23-btc-nov20-with-nov13-v2",
+  "asset": "BTC",
+  "status": "VERIFIED",
+  "files": [
+    {
+      "path": "chart.json",
+      "bytes": 47048,
+      "sha256": "d0b9d67a0c56e6eebde63c7e82d9dcc036433317a19611027ee26cd89e4cc569"
+    },
+    {
+      "path": "chart.csv",
+      "bytes": 3549,
+      "sha256": "a3da0d2b041f8ec26a3c727e8894d7b19241a89a4f3eeaf8b3ddfe7b9c863886"
+    },
+    {
+      "path": "phases.json",
+      "bytes": 297881,
+      "sha256": "8977273e2e9403f5b798950dd10512c39e3cbfbe9452cb66ea709ad88b05b8fa"
+    }
+  ]
+}
