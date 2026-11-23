@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0.0",
+  "release_id": "2026-11-23-hype-weekly-nov20-v1",
+  "asset": "HYPE",
+  "status": "VERIFIED",
+  "files": [
+    {
+      "path": "chart.json",
+      "bytes": 61880,
+      "sha256": "93874962c719a3292ae7896f8d1fb4f11c76771d4280c36cdce805d0d421d097"
+    },
+    {
+      "path": "chart.csv",
+      "bytes": 2992,
+      "sha256": "7e09f56bd5a45b2bbc122c8df1bc7b6665e7beca2a21a05c810360dd133f4937"
+    },
+    {
+      "path": "phases.json",
+      "bytes": 418802,
+      "sha256": "2aca303dc81dada6a65d712b737d2b8f40340f1808a143eab3aa952559582979"
+    }
+  ]
+}
