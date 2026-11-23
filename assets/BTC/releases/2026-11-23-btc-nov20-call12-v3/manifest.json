@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0.0",
+  "release_id": "2026-11-23-btc-nov20-call12-v3",
+  "asset": "BTC",
+  "status": "VERIFIED",
+  "files": [
+    {
+      "path": "chart.json",
+      "bytes": 47067,
+      "sha256": "24424d01dd7ebeb7457ac398c6bb96261470accc6b4fe6027f35cfabf3080114"
+    },
+    {
+      "path": "chart.csv",
+      "bytes": 3560,
+      "sha256": "6fdc25f5542b2064bb95ad431a7f3ae90ce1708349ca09429dc61f3d18742db0"
+    },
+    {
+      "path": "phases.json",
+      "bytes": 297914,
+      "sha256": "faf68b02897b14532c80583842a85b4aa038403fabd945bd14a4be049e9430cd"
+    }
+  ]
+}
