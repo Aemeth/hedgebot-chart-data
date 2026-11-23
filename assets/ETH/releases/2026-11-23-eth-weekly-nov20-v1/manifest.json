@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0.0",
+  "release_id": "2026-11-23-eth-weekly-nov20-v1",
+  "asset": "ETH",
+  "status": "VERIFIED",
+  "files": [
+    {
+      "path": "chart.json",
+      "bytes": 45227,
+      "sha256": "6d961fa5513eb22a71aed22dea54e6fcf3a84b34165ae22ed49d1dbb5e17366a"
+    },
+    {
+      "path": "chart.csv",
+      "bytes": 3803,
+      "sha256": "1d2484fb5be6138bf2faea18ada7e9fed49b92a3609e2c522d5b198145aa9dfe"
+    },
+    {
+      "path": "phases.json",
+      "bytes": 287216,
+      "sha256": "7208fb5a81afcfb9b0d6572c1ec1824be2d06d31155a9eb64d45db92585ad927"
+    }
+  ]
+}

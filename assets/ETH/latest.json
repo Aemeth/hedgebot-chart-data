@@ -1,10 +1,10 @@
 {
   "schema_version": "1.0.0",
   "asset": "ETH",
-  "release_id": "2026-11-11-eth-phase-curves-v2",
-  "chart_path": "assets/ETH/releases/2026-11-11-eth-phase-curves-v2/chart.json",
-  "manifest_path": "assets/ETH/releases/2026-11-11-eth-phase-curves-v2/manifest.json",
-  "chart_sha256": "171a3b7167011862b6c24307954d9597b665180d4dec507650045f14a5f1c2e6",
-  "phases_path": "assets/ETH/releases/2026-11-11-eth-phase-curves-v2/phases.json",
-  "phases_sha256": "e33111f951423e10d377277ee200c24b987081f045d1a0afa0d6e924c1563c41"
+  "release_id": "2026-11-23-eth-weekly-nov20-v1",
+  "chart_path": "assets/ETH/releases/2026-11-23-eth-weekly-nov20-v1/chart.json",
+  "manifest_path": "assets/ETH/releases/2026-11-23-eth-weekly-nov20-v1/manifest.json",
+  "chart_sha256": "6d961fa5513eb22a71aed22dea54e6fcf3a84b34165ae22ed49d1dbb5e17366a",
+  "phases_path": "assets/ETH/releases/2026-11-23-eth-weekly-nov20-v1/phases.json",
+  "phases_sha256": "7208fb5a81afcfb9b0d6572c1ec1824be2d06d31155a9eb64d45db92585ad927"
 }
