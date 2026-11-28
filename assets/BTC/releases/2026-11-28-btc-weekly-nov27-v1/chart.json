@@ -1,0 +1,1658 @@
+{
+  "release_id": "2026-11-28-btc-weekly-nov27-v1",
+  "published_date": "2026-11-28",
+  "asset": "BTC",
+  "series": [
+    {
+      "id": "CALL",
+      "label_ru": "Хедж при росте цены",
+      "points": [
+        {
+          "distance_usd": 100,
+          "mean_cost_pct": 136.13937590822806,
+          "weeks_in_average": 27,
+          "weeks_with_hedging": 27,
+          "hedge_openings": 54,
+          "weeks_without_trades": 0,
+          "weeks_without_entry_scenario": 0,
+          "median_week_cost_pct": 133.14260757102437,
+          "middle_half_week_cost_pct": [
+            81.04839079361037,
+            169.53172637363056
+          ],
+          "historical_week_range_cost_pct": [
+            5.660398980802914,
+            365.56105179650325
+          ],
+          "mean_omit_one_week_cost_pct": [
+            127.31546529714056,
+            141.15779809774443
+          ]
+        },
+        {
+          "distance_usd": 200,
+          "mean_cost_pct": 130.2608552972384,
+          "weeks_in_average": 27,
+          "weeks_with_hedging": 26,
+          "hedge_openings": 53,
+          "weeks_without_trades": 1,
+          "weeks_without_entry_scenario": 0,
+          "median_week_cost_pct": 120.08373509685215,
+          "middle_half_week_cost_pct": [
+            65.66038885035158,
+            166.45903329836676
+          ],
+          "historical_week_range_cost_pct": [
+            -0.0,
+            365.34273353426323
+          ],
+          "mean_omit_one_week_cost_pct": [
+            121.21924459581436,
+            135.27088819328603
+          ]
+        },
+        {
+          "distance_usd": 400,
+          "mean_cost_pct": 120.5505235209634,
+          "weeks_in_average": 27,
+          "weeks_with_hedging": 25,
+          "hedge_openings": 49,
+          "weeks_without_trades": 2,
+          "weeks_without_entry_scenario": 0,
+          "median_week_cost_pct": 119.95501961764418,
+          "middle_half_week_cost_pct": [
+            35.33066931668449,
+            166.66700139286044
+          ],
+          "historical_week_range_cost_pct": [
+            -0.0,
+            362.4955579676986
+          ],
+          "mean_omit_one_week_cost_pct": [
+            111.24494527301204,
+            125.18708211792352
+          ]
+        },
+        {
+          "distance_usd": 600,
+          "mean_cost_pct": 116.90745120551495,
+          "weeks_in_average": 27,
+          "weeks_with_hedging": 24,
+          "hedge_openings": 47,
+          "weeks_without_trades": 3,
+          "weeks_without_entry_scenario": 0,
+          "median_week_cost_pct": 116.6502193328374,
+          "middle_half_week_cost_pct": [
+            7.914507880417695,
+            165.16703962168015
+          ],
+          "historical_week_range_cost_pct": [
+            -0.0,
+            369.09998051381507
+          ],
+          "mean_omit_one_week_cost_pct": [
+            107.20773853981109,
+            121.40389163649628
+          ]
+        },
+        {
+          "distance_usd": 800,
+          "mean_cost_pct": 105.56895814887524,
+          "weeks_in_average": 27,
+          "weeks_with_hedging": 22,
+          "hedge_openings": 43,
+          "weeks_without_trades": 5,
+          "weeks_without_entry_scenario": 0,
+          "median_week_cost_pct": 111.12169802430189,
+          "middle_half_week_cost_pct": [
+            5.7063817745103105,
+            163.95511557128833
+          ],
+          "historical_week_range_cost_pct": [
+            -0.0,
+            369.15754084308065
+          ],
+          "mean_omit_one_week_cost_pct": [
+            95.43093573755964,
+            109.62930269306274
+          ]
+        },
+        {
+          "distance_usd": 1000,
+          "mean_cost_pct": 91.02285305270408,
+          "weeks_in_average": 27,
+          "weeks_with_hedging": 21,
+          "hedge_openings": 37,
+          "weeks_without_trades": 6,
+          "weeks_without_entry_scenario": 0,
+          "median_week_cost_pct": 89.12583076427526,
+          "middle_half_week_cost_pct": [
+            5.57723808775282,
+            155.09405689615306
+          ],
+          "historical_week_range_cost_pct": [
+            -0.0,
+            269.83245070948703
+          ],
+          "mean_omit_one_week_cost_pct": [
+            84.1455608351355,
+            94.52373201626962
+          ]
+        },
+        {
+          "distance_usd": 1400,
+          "mean_cost_pct": 82.05198361911728,
+          "weeks_in_average": 27,
+          "weeks_with_hedging": 18,
+          "hedge_openings": 33,
+          "weeks_without_trades": 9,
+          "weeks_without_entry_scenario": 0,
+          "median_week_cost_pct": 8.150894348173189,
+          "middle_half_week_cost_pct": [
+            -0.0,
+            164.91668490897342
+          ],
+          "historical_week_range_cost_pct": [
+            -0.0,
+            289.85202522374954
+          ],
+          "mean_omit_one_week_cost_pct": [
+            74.05967432663142,
+            85.20782914292948
+          ]
+        },
+        {
+          "distance_usd": 1800,
+          "mean_cost_pct": 60.72181061548872,
+          "weeks_in_average": 27,
+          "weeks_with_hedging": 15,
+          "hedge_openings": 23,
+          "weeks_without_trades": 12,
+          "weeks_without_entry_scenario": 0,
+          "median_week_cost_pct": 5.748858061337619,
+          "middle_half_week_cost_pct": [
+            -0.0,
+            108.441919363929
+          ],
+          "historical_week_range_cost_pct": [
+            -0.0,
+            243.32550027935363
+          ],
+          "mean_omit_one_week_cost_pct": [
+            53.698591782263144,
+            63.05726486993059
+          ]
+        },
+        {
+          "distance_usd": 2200,
+          "mean_cost_pct": 46.06244683284067,
+          "weeks_in_average": 27,
+          "weeks_with_hedging": 13,
+          "hedge_openings": 17,
+          "weeks_without_trades": 14,
+          "weeks_without_entry_scenario": 0,
+          "median_week_cost_pct": -0.0,
+          "middle_half_week_cost_pct": [
+            -0.0,
+            70.03478251132626
+          ],
+          "historical_week_range_cost_pct": [
+            -0.0,
+            226.8943642330684
+          ],
+          "mean_omit_one_week_cost_pct": [
+            39.107373086678066,
+            47.83407940333454
+          ]
+        },
+        {
+          "distance_usd": 2600,
+          "mean_cost_pct": 41.458285978392006,
+          "weeks_in_average": 27,
+          "weeks_with_hedging": 12,
+          "hedge_openings": 14,
+          "weeks_without_trades": 15,
+          "weeks_without_entry_scenario": 0,
+          "median_week_cost_pct": -0.0,
+          "middle_half_week_cost_pct": [
+            -0.0,
+            70.23283563216398
+          ],
+          "historical_week_range_cost_pct": [
+            -0.0,
+            226.20883373002246
+          ],
+          "mean_omit_one_week_cost_pct": [
+            34.352495680252375,
+            43.05283543909939
+          ]
+        }
+      ],
+      "trend": [
+        {
+          "distance_usd": 100.0,
+          "cost_pct": 153.9259527433569
+        },
+        {
+          "distance_usd": 117.85714285714286,
+          "cost_pct": 148.9596362819006
+        },
+        {
+          "distance_usd": 135.71428571428572,
+          "cost_pct": 144.6953152033148
+        },
+        {
+          "distance_usd": 153.57142857142856,
+          "cost_pct": 140.958890227876
+        },
+        {
+          "distance_usd": 171.42857142857144,
+          "cost_pct": 137.63394128514838
+        },
+        {
+          "distance_usd": 189.28571428571428,
+          "cost_pct": 134.63876391555598
+        },
+        {
+          "distance_usd": 207.14285714285714,
+          "cost_pct": 131.913806140868
+        },
+        {
+          "distance_usd": 225.0,
+          "cost_pct": 129.41431981727186
+        },
+        {
+          "distance_usd": 242.85714285714286,
+          "cost_pct": 127.10582719484407
+        },
+        {
+          "distance_usd": 260.7142857142857,
+          "cost_pct": 124.96120010752739
+        },
+        {
+          "distance_usd": 278.57142857142856,
+          "cost_pct": 122.95870890977505
+        },
+        {
+          "distance_usd": 296.42857142857144,
+          "cost_pct": 121.08067874012042
+        },
+        {
+          "distance_usd": 314.2857142857143,
+          "cost_pct": 119.31253948833864
+        },
+        {
+          "distance_usd": 332.1428571428571,
+          "cost_pct": 117.64213867319177
+        },
+        {
+          "distance_usd": 350.0,
+          "cost_pct": 116.05923448191845
+        },
+        {
+          "distance_usd": 367.85714285714283,
+          "cost_pct": 114.55511509930284
+        },
+        {
+          "distance_usd": 385.7142857142857,
+          "cost_pct": 113.12230835906334
+        },
+        {
+          "distance_usd": 403.57142857142856,
+          "cost_pct": 111.75435716140092
+        },
+        {
+          "distance_usd": 421.42857142857144,
+          "cost_pct": 110.4456435529116
+        },
+        {
+          "distance_usd": 439.2857142857143,
+          "cost_pct": 109.19124933972785
+        },
+        {
+          "distance_usd": 457.14285714285717,
+          "cost_pct": 107.98684449158642
+        },
+        {
+          "distance_usd": 475.0,
+          "cost_pct": 106.82859694187633
+        },
+        {
+          "distance_usd": 492.85714285714283,
+          "cost_pct": 105.71309904228858
+        },
+        {
+          "distance_usd": 510.7142857142857,
+          "cost_pct": 104.63730711296532
+        },
+        {
+          "distance_usd": 528.5714285714286,
+          "cost_pct": 103.59849138595956
+        },
+        {
+          "distance_usd": 546.4285714285714,
+          "cost_pct": 102.59419426875905
+        },
+        {
+          "distance_usd": 564.2857142857142,
+          "cost_pct": 101.62219532164065
+        },
+        {
+          "distance_usd": 582.1428571428571,
+          "cost_pct": 100.6804816931461
+        },
+        {
+          "distance_usd": 600.0,
+          "cost_pct": 99.76722302370993
+        },
+        {
+          "distance_usd": 617.8571428571429,
+          "cost_pct": 98.88075003081971
+        },
+        {
+          "distance_usd": 635.7142857142857,
+          "cost_pct": 98.01953614606055
+        },
+        {
+          "distance_usd": 653.5714285714286,
+          "cost_pct": 97.18218169655586
+        },
+        {
+          "distance_usd": 671.4285714285714,
+          "cost_pct": 96.36740021912246
+        },
+        {
+          "distance_usd": 689.2857142857143,
+          "cost_pct": 95.5740065711318
+        },
+        {
+          "distance_usd": 707.1428571428571,
+          "cost_pct": 94.8009065622536
+        },
+        {
+          "distance_usd": 725.0,
+          "cost_pct": 94.04708787942954
+        },
+        {
+          "distance_usd": 742.8571428571429,
+          "cost_pct": 93.3116121162131
+        },
+        {
+          "distance_usd": 760.7142857142857,
+          "cost_pct": 92.5936077490284
+        },
+        {
+          "distance_usd": 778.5714285714286,
+          "cost_pct": 91.89226392848101
+        },
+        {
+          "distance_usd": 796.4285714285714,
+          "cost_pct": 91.20682497479456
+        },
+        {
+          "distance_usd": 814.2857142857143,
+          "cost_pct": 90.5365854836678
+        },
+        {
+          "distance_usd": 832.1428571428571,
+          "cost_pct": 89.88088596308256
+        },
+        {
+          "distance_usd": 850.0,
+          "cost_pct": 89.23910893340562
+        },
+        {
+          "distance_usd": 867.8571428571429,
+          "cost_pct": 88.61067543297833
+        },
+        {
+          "distance_usd": 885.7142857142857,
+          "cost_pct": 87.99504187962981
+        },
+        {
+          "distance_usd": 903.5714285714286,
+          "cost_pct": 87.39169724547881
+        },
+        {
+          "distance_usd": 921.4285714285714,
+          "cost_pct": 86.80016050822903
+        },
+        {
+          "distance_usd": 939.2857142857143,
+          "cost_pct": 86.21997834710916
+        },
+        {
+          "distance_usd": 957.1428571428571,
+          "cost_pct": 85.65072305580858
+        },
+        {
+          "distance_usd": 975.0,
+          "cost_pct": 85.09199064833658
+        },
+        {
+          "distance_usd": 992.8571428571429,
+          "cost_pct": 84.54339913679391
+        },
+        {
+          "distance_usd": 1010.7142857142857,
+          "cost_pct": 84.0045869626656
+        },
+        {
+          "distance_usd": 1028.5714285714284,
+          "cost_pct": 83.47521156550138
+        },
+        {
+          "distance_usd": 1046.4285714285716,
+          "cost_pct": 82.9549480747919
+        },
+        {
+          "distance_usd": 1064.2857142857142,
+          "cost_pct": 82.44348811253204
+        },
+        {
+          "distance_usd": 1082.142857142857,
+          "cost_pct": 81.9405386954192
+        },
+        {
+          "distance_usd": 1100.0,
+          "cost_pct": 81.4458212269002
+        },
+        {
+          "distance_usd": 1117.857142857143,
+          "cost_pct": 80.95907057038522
+        },
+        {
+          "distance_usd": 1135.7142857142858,
+          "cost_pct": 80.48003419590898
+        },
+        {
+          "distance_usd": 1153.5714285714287,
+          "cost_pct": 80.00847139336352
+        },
+        {
+          "distance_usd": 1171.4285714285713,
+          "cost_pct": 79.54415254616592
+        },
+        {
+          "distance_usd": 1189.2857142857142,
+          "cost_pct": 79.08685845987452
+        },
+        {
+          "distance_usd": 1207.142857142857,
+          "cost_pct": 78.63637974083977
+        },
+        {
+          "distance_usd": 1225.0,
+          "cost_pct": 78.19251622048
+        },
+        {
+          "distance_usd": 1242.857142857143,
+          "cost_pct": 77.75507642122099
+        },
+        {
+          "distance_usd": 1260.7142857142858,
+          "cost_pct": 77.32387706053208
+        },
+        {
+          "distance_usd": 1278.5714285714287,
+          "cost_pct": 76.8987425898438
+        },
+        {
+          "distance_usd": 1296.4285714285713,
+          "cost_pct": 76.47950476544386
+        },
+        {
+          "distance_usd": 1314.2857142857142,
+          "cost_pct": 76.06600224872662
+        },
+        {
+          "distance_usd": 1332.142857142857,
+          "cost_pct": 75.65808023341859
+        },
+        {
+          "distance_usd": 1350.0,
+          "cost_pct": 75.25559009762489
+        },
+        {
+          "distance_usd": 1367.857142857143,
+          "cost_pct": 74.85838907873946
+        },
+        {
+          "distance_usd": 1385.7142857142858,
+          "cost_pct": 74.46633996943908
+        },
+        {
+          "distance_usd": 1403.5714285714287,
+          "cost_pct": 74.0793108331421
+        },
+        {
+          "distance_usd": 1421.4285714285713,
+          "cost_pct": 73.69717473745456
+        },
+        {
+          "distance_usd": 1439.2857142857142,
+          "cost_pct": 73.31980950425648
+        },
+        {
+          "distance_usd": 1457.142857142857,
+          "cost_pct": 72.94709747519713
+        },
+        {
+          "distance_usd": 1475.0,
+          "cost_pct": 72.57892529147318
+        },
+        {
+          "distance_usd": 1492.857142857143,
+          "cost_pct": 72.21518368685807
+        },
+        {
+          "distance_usd": 1510.7142857142858,
+          "cost_pct": 71.85576729303745
+        },
+        {
+          "distance_usd": 1528.5714285714287,
+          "cost_pct": 71.50057445638262
+        },
+        {
+          "distance_usd": 1546.4285714285713,
+          "cost_pct": 71.14950706536533
+        },
+        {
+          "distance_usd": 1564.2857142857142,
+          "cost_pct": 70.80247038788039
+        },
+        {
+          "distance_usd": 1582.142857142857,
+          "cost_pct": 70.45937291780143
+        },
+        {
+          "distance_usd": 1600.0,
+          "cost_pct": 70.12012623014797
+        },
+        {
+          "distance_usd": 1617.857142857143,
+          "cost_pct": 69.7846448442906
+        },
+        {
+          "distance_usd": 1635.7142857142858,
+          "cost_pct": 69.45284609466415
+        },
+        {
+          "distance_usd": 1653.5714285714287,
+          "cost_pct": 69.12465000850051
+        },
+        {
+          "distance_usd": 1671.4285714285713,
+          "cost_pct": 68.79997919012808
+        },
+        {
+          "distance_usd": 1689.2857142857142,
+          "cost_pct": 68.47875871141929
+        },
+        {
+          "distance_usd": 1707.142857142857,
+          "cost_pct": 68.16091600799848
+        },
+        {
+          "distance_usd": 1725.0,
+          "cost_pct": 67.84638078085013
+        },
+        {
+          "distance_usd": 1742.857142857143,
+          "cost_pct": 67.5350849029939
+        },
+        {
+          "distance_usd": 1760.7142857142858,
+          "cost_pct": 67.2269623309167
+        },
+        {
+          "distance_usd": 1778.5714285714287,
+          "cost_pct": 66.92194902047345
+        },
+        {
+          "distance_usd": 1796.4285714285713,
+          "cost_pct": 66.61998284698879
+        },
+        {
+          "distance_usd": 1814.2857142857142,
+          "cost_pct": 66.32100352931059
+        },
+        {
+          "distance_usd": 1832.142857142857,
+          "cost_pct": 66.0249525575828
+        },
+        {
+          "distance_usd": 1850.0,
+          "cost_pct": 65.73177312452111
+        },
+        {
+          "distance_usd": 1867.857142857143,
+          "cost_pct": 65.44141005998992
+        },
+        {
+          "distance_usd": 1885.7142857142858,
+          "cost_pct": 65.15380976869167
+        },
+        {
+          "distance_usd": 1903.5714285714287,
+          "cost_pct": 64.86892017079256
+        },
+        {
+          "distance_usd": 1921.4285714285713,
+          "cost_pct": 64.58669064532086
+        },
+        {
+          "distance_usd": 1939.2857142857142,
+          "cost_pct": 64.30707197618267
+        },
+        {
+          "distance_usd": 1957.142857142857,
+          "cost_pct": 64.03001630065239
+        },
+        {
+          "distance_usd": 1975.0,
+          "cost_pct": 63.755477060202196
+        },
+        {
+          "distance_usd": 1992.857142857143,
+          "cost_pct": 63.48340895354477
+        },
+        {
+          "distance_usd": 2010.7142857142858,
+          "cost_pct": 63.213767891770146
+        },
+        {
+          "distance_usd": 2028.5714285714287,
+          "cost_pct": 62.94651095546641
+        },
+        {
+          "distance_usd": 2046.4285714285713,
+          "cost_pct": 62.68159635371933
+        },
+        {
+          "distance_usd": 2064.285714285714,
+          "cost_pct": 62.41898338489281
+        },
+        {
+          "distance_usd": 2082.142857142857,
+          "cost_pct": 62.158632399099275
+        },
+        {
+          "distance_usd": 2100.0,
+          "cost_pct": 61.90050476227148
+        },
+        {
+          "distance_usd": 2117.857142857143,
+          "cost_pct": 61.64456282175644
+        },
+        {
+          "distance_usd": 2135.714285714286,
+          "cost_pct": 61.39076987335329
+        },
+        {
+          "distance_usd": 2153.5714285714284,
+          "cost_pct": 61.13909012972357
+        },
+        {
+          "distance_usd": 2171.4285714285716,
+          "cost_pct": 60.88948869010585
+        },
+        {
+          "distance_usd": 2189.285714285714,
+          "cost_pct": 60.64193151127088
+        },
+        {
+          "distance_usd": 2207.1428571428573,
+          "cost_pct": 60.39638537965587
+        },
+        {
+          "distance_usd": 2225.0,
+          "cost_pct": 60.152817884622095
+        },
+        {
+          "distance_usd": 2242.8571428571427,
+          "cost_pct": 59.91119739278113
+        },
+        {
+          "distance_usd": 2260.714285714286,
+          "cost_pct": 59.67149302333917
+        },
+        {
+          "distance_usd": 2278.5714285714284,
+          "cost_pct": 59.43367462441125
+        },
+        {
+          "distance_usd": 2296.4285714285716,
+          "cost_pct": 59.19771275026011
+        },
+        {
+          "distance_usd": 2314.285714285714,
+          "cost_pct": 58.96357863941637
+        },
+        {
+          "distance_usd": 2332.1428571428573,
+          "cost_pct": 58.73124419364004
+        },
+        {
+          "distance_usd": 2350.0,
+          "cost_pct": 58.50068195768401
+        },
+        {
+          "distance_usd": 2367.8571428571427,
+          "cost_pct": 58.27186509982377
+        },
+        {
+          "distance_usd": 2385.714285714286,
+          "cost_pct": 58.04476739311849
+        },
+        {
+          "distance_usd": 2403.5714285714284,
+          "cost_pct": 57.81936319737068
+        },
+        {
+          "distance_usd": 2421.4285714285716,
+          "cost_pct": 57.59562744175395
+        },
+        {
+          "distance_usd": 2439.285714285714,
+          "cost_pct": 57.37353560807847
+        },
+        {
+          "distance_usd": 2457.1428571428573,
+          "cost_pct": 57.15306371466707
+        },
+        {
+          "distance_usd": 2475.0,
+          "cost_pct": 56.93418830081515
+        },
+        {
+          "distance_usd": 2492.8571428571427,
+          "cost_pct": 56.716886411809014
+        },
+        {
+          "distance_usd": 2510.714285714286,
+          "cost_pct": 56.50113558447899
+        },
+        {
+          "distance_usd": 2528.5714285714284,
+          "cost_pct": 56.286913833264634
+        },
+        {
+          "distance_usd": 2546.4285714285716,
+          "cost_pct": 56.074199636769976
+        },
+        {
+          "distance_usd": 2564.285714285714,
+          "cost_pct": 55.86297192478881
+        },
+        {
+          "distance_usd": 2582.1428571428573,
+          "cost_pct": 55.65321006578003
+        },
+        {
+          "distance_usd": 2600.0,
+          "cost_pct": 55.44489385477465
+        }
+      ]
+    },
+    {
+      "id": "PUT",
+      "label_ru": "Хедж при падении цены",
+      "points": [
+        {
+          "distance_usd": 100,
+          "mean_cost_pct": 144.9925684083323,
+          "weeks_in_average": 27,
+          "weeks_with_hedging": 27,
+          "hedge_openings": 85,
+          "weeks_without_trades": 0,
+          "weeks_without_entry_scenario": 0,
+          "median_week_cost_pct": 139.88517940171386,
+          "middle_half_week_cost_pct": [
+            61.12232810705973,
+            223.63811844884285
+          ],
+          "historical_week_range_cost_pct": [
+            5.279385548084146,
+            355.2856673670964
+          ],
+          "mean_omit_one_week_cost_pct": [
+            136.9043722945337,
+            150.3661523644957
+          ]
+        },
+        {
+          "distance_usd": 200,
+          "mean_cost_pct": 127.61199558958974,
+          "weeks_in_average": 27,
+          "weeks_with_hedging": 26,
+          "hedge_openings": 78,
+          "weeks_without_trades": 1,
+          "weeks_without_entry_scenario": 0,
+          "median_week_cost_pct": 113.50313406056213,
+          "middle_half_week_cost_pct": [
+            39.91541459940311,
+            220.25439188767774
+          ],
+          "historical_week_range_cost_pct": [
+            -0.0,
+            290.55820488075113
+          ],
+          "mean_omit_one_week_cost_pct": [
+            121.34483369377584,
+            132.5201492661124
+          ]
+        },
+        {
+          "distance_usd": 400,
+          "mean_cost_pct": 134.5306405579769,
+          "weeks_in_average": 27,
+          "weeks_with_hedging": 25,
+          "hedge_openings": 76,
+          "weeks_without_trades": 2,
+          "weeks_without_entry_scenario": 0,
+          "median_week_cost_pct": 122.93228571643809,
+          "middle_half_week_cost_pct": [
+            57.56277037377872,
+            223.71295906810607
+          ],
+          "historical_week_range_cost_pct": [
+            -0.0,
+            305.98306886332296
+          ],
+          "mean_omit_one_week_cost_pct": [
+            127.93631639238667,
+            139.70489596405295
+          ]
+        },
+        {
+          "distance_usd": 600,
+          "mean_cost_pct": 117.02350326586387,
+          "weeks_in_average": 27,
+          "weeks_with_hedging": 23,
+          "hedge_openings": 69,
+          "weeks_without_trades": 4,
+          "weeks_without_entry_scenario": 0,
+          "median_week_cost_pct": 78.13946818930954,
+          "middle_half_week_cost_pct": [
+            34.64351219235402,
+            209.9676994355665
+          ],
+          "historical_week_range_cost_pct": [
+            -0.0,
+            305.98306886332296
+          ],
+          "mean_omit_one_week_cost_pct": [
+            109.7558276659616,
+            121.52440723762787
+          ]
+        },
+        {
+          "distance_usd": 800,
+          "mean_cost_pct": 101.30252980402494,
+          "weeks_in_average": 27,
+          "weeks_with_hedging": 22,
+          "hedge_openings": 59,
+          "weeks_without_trades": 5,
+          "weeks_without_entry_scenario": 0,
+          "median_week_cost_pct": 74.37572660082284,
+          "middle_half_week_cost_pct": [
+            6.935761405404354,
+            170.35737780255863
+          ],
+          "historical_week_range_cost_pct": [
+            -0.0,
+            294.4849547435279
+          ],
+          "mean_omit_one_week_cost_pct": [
+            93.87243653712098,
+            105.1987809503336
+          ]
+        },
+        {
+          "distance_usd": 1000,
+          "mean_cost_pct": 101.0805876024646,
+          "weeks_in_average": 27,
+          "weeks_with_hedging": 21,
+          "hedge_openings": 58,
+          "weeks_without_trades": 6,
+          "weeks_without_entry_scenario": 0,
+          "median_week_cost_pct": 74.10444812403651,
+          "middle_half_week_cost_pct": [
+            5.29910166358804,
+            176.6536925747979
+          ],
+          "historical_week_range_cost_pct": [
+            -0.0,
+            294.4122020850946
+          ],
+          "mean_omit_one_week_cost_pct": [
+            93.6447562762096,
+            104.9683025102517
+          ]
+        },
+        {
+          "distance_usd": 1400,
+          "mean_cost_pct": 82.49703556697648,
+          "weeks_in_average": 27,
+          "weeks_with_hedging": 19,
+          "hedge_openings": 45,
+          "weeks_without_trades": 8,
+          "weeks_without_entry_scenario": 0,
+          "median_week_cost_pct": 72.64194371289403,
+          "middle_half_week_cost_pct": [
+            -0.0,
+            125.63825235934041
+          ],
+          "historical_week_range_cost_pct": [
+            -0.0,
+            288.8216769582603
+          ],
+          "mean_omit_one_week_cost_pct": [
+            74.56147243654249,
+            85.66999847339865
+          ]
+        },
+        {
+          "distance_usd": 1800,
+          "mean_cost_pct": 56.414403120477644,
+          "weeks_in_average": 27,
+          "weeks_with_hedging": 16,
+          "hedge_openings": 33,
+          "weeks_without_trades": 11,
+          "weeks_without_entry_scenario": 0,
+          "median_week_cost_pct": 5.8261615564958396,
+          "middle_half_week_cost_pct": [
+            -0.0,
+            78.77012276772258
+          ],
+          "historical_week_range_cost_pct": [
+            -0.0,
+            285.881621605589
+          ],
+          "mean_omit_one_week_cost_pct": [
+            47.58874087105029,
+            58.584187855880636
+          ]
+        },
+        {
+          "distance_usd": 2200,
+          "mean_cost_pct": 41.39912204954924,
+          "weeks_in_average": 27,
+          "weeks_with_hedging": 14,
+          "hedge_openings": 24,
+          "weeks_without_trades": 13,
+          "weeks_without_entry_scenario": 0,
+          "median_week_cost_pct": 5.461836069328133,
+          "middle_half_week_cost_pct": [
+            -0.0,
+            62.29324921121761
+          ],
+          "historical_week_range_cost_pct": [
+            -0.0,
+            286.20955449904636
+          ],
+          "mean_omit_one_week_cost_pct": [
+            31.983336186107042,
+            42.991395974531905
+          ]
+        },
+        {
+          "distance_usd": 2600,
+          "mean_cost_pct": 32.31637616559874,
+          "weeks_in_average": 27,
+          "weeks_with_hedging": 13,
+          "hedge_openings": 17,
+          "weeks_without_trades": 14,
+          "weeks_without_entry_scenario": 0,
+          "median_week_cost_pct": -0.0,
+          "middle_half_week_cost_pct": [
+            -0.0,
+            56.7800576889244
+          ],
+          "historical_week_range_cost_pct": [
+            -0.0,
+            290.14301962209646
+          ],
+          "mean_omit_one_week_cost_pct": [
+            22.39996680188729,
+            33.559313710429464
+          ]
+        }
+      ],
+      "trend": [
+        {
+          "distance_usd": 100.0,
+          "cost_pct": 162.74251514193378
+        },
+        {
+          "distance_usd": 117.85714285714286,
+          "cost_pct": 157.12539949172148
+        },
+        {
+          "distance_usd": 135.71428571428572,
+          "cost_pct": 152.30227054817635
+        },
+        {
+          "distance_usd": 153.57142857142856,
+          "cost_pct": 148.07621460343964
+        },
+        {
+          "distance_usd": 171.42857142857144,
+          "cost_pct": 144.31555559443328
+        },
+        {
+          "distance_usd": 189.28571428571428,
+          "cost_pct": 140.92788229401583
+        },
+        {
+          "distance_usd": 207.14285714285714,
+          "cost_pct": 137.84583887588875
+        },
+        {
+          "distance_usd": 225.0,
+          "cost_pct": 135.01881328162239
+        },
+        {
+          "distance_usd": 242.85714285714286,
+          "cost_pct": 132.40780970614014
+        },
+        {
+          "distance_usd": 260.7142857142857,
+          "cost_pct": 129.98214503705793
+        },
+        {
+          "distance_usd": 278.57142857142856,
+          "cost_pct": 127.71724211884788
+        },
+        {
+          "distance_usd": 296.42857142857144,
+          "cost_pct": 125.59310992964694
+        },
+        {
+          "distance_usd": 314.2857142857143,
+          "cost_pct": 123.59326905361351
+        },
+        {
+          "distance_usd": 332.1428571428571,
+          "cost_pct": 121.70397451636254
+        },
+        {
+          "distance_usd": 350.0,
+          "cost_pct": 119.91364239101492
+        },
+        {
+          "distance_usd": 367.85714285714283,
+          "cost_pct": 118.21241924314481
+        },
+        {
+          "distance_usd": 385.7142857142857,
+          "cost_pct": 116.59185373412186
+        },
+        {
+          "distance_usd": 403.57142857142856,
+          "cost_pct": 115.0446426087835
+        },
+        {
+          "distance_usd": 421.42857142857144,
+          "cost_pct": 113.56443172231585
+        },
+        {
+          "distance_usd": 439.2857142857143,
+          "cost_pct": 112.14565838777406
+        },
+        {
+          "distance_usd": 457.14285714285717,
+          "cost_pct": 110.78342515632531
+        },
+        {
+          "distance_usd": 475.0,
+          "cost_pct": 109.47339779725749
+        },
+        {
+          "distance_usd": 492.85714285714283,
+          "cost_pct": 108.21172211505257
+        },
+        {
+          "distance_usd": 510.7142857142857,
+          "cost_pct": 106.99495557802811
+        },
+        {
+          "distance_usd": 528.5714285714286,
+          "cost_pct": 105.82001070225604
+        },
+        {
+          "distance_usd": 546.4285714285714,
+          "cost_pct": 104.68410784582875
+        },
+        {
+          "distance_usd": 564.2857142857142,
+          "cost_pct": 103.58473559675389
+        },
+        {
+          "distance_usd": 582.1428571428571,
+          "cost_pct": 102.51961733421697
+        },
+        {
+          "distance_usd": 600.0,
+          "cost_pct": 101.48668284351442
+        },
+        {
+          "distance_usd": 617.8571428571429,
+          "cost_pct": 100.48404409495708
+        },
+        {
+          "distance_usd": 635.7142857142857,
+          "cost_pct": 99.50997447458451
+        },
+        {
+          "distance_usd": 653.5714285714286,
+          "cost_pct": 98.56289089270007
+        },
+        {
+          "distance_usd": 671.4285714285714,
+          "cost_pct": 97.64133830459696
+        },
+        {
+          "distance_usd": 689.2857142857143,
+          "cost_pct": 96.74397626343526
+        },
+        {
+          "distance_usd": 707.1428571428571,
+          "cost_pct": 95.86956719330209
+        },
+        {
+          "distance_usd": 725.0,
+          "cost_pct": 95.01696612496988
+        },
+        {
+          "distance_usd": 742.8571428571429,
+          "cost_pct": 94.18511168073991
+        },
+        {
+          "distance_usd": 760.7142857142857,
+          "cost_pct": 93.3730181302916
+        },
+        {
+          "distance_usd": 778.5714285714286,
+          "cost_pct": 92.57976836839038
+        },
+        {
+          "distance_usd": 796.4285714285714,
+          "cost_pct": 91.80450768899172
+        },
+        {
+          "distance_usd": 814.2857142857143,
+          "cost_pct": 91.04643824975696
+        },
+        {
+          "distance_usd": 832.1428571428571,
+          "cost_pct": 90.30481413709703
+        },
+        {
+          "distance_usd": 850.0,
+          "cost_pct": 89.57893695522125
+        },
+        {
+          "distance_usd": 867.8571428571429,
+          "cost_pct": 88.86815187381046
+        },
+        {
+          "distance_usd": 885.7142857142857,
+          "cost_pct": 88.17184407825457
+        },
+        {
+          "distance_usd": 903.5714285714286,
+          "cost_pct": 87.48943557423277
+        },
+        {
+          "distance_usd": 921.4285714285714,
+          "cost_pct": 86.82038230502025
+        },
+        {
+          "distance_usd": 939.2857142857143,
+          "cost_pct": 86.16417154549794
+        },
+        {
+          "distance_usd": 957.1428571428571,
+          "cost_pct": 85.5203195415938
+        },
+        {
+          "distance_usd": 975.0,
+          "cost_pct": 84.88836936792902
+        },
+        {
+          "distance_usd": 992.8571428571429,
+          "cost_pct": 84.26788897990386
+        },
+        {
+          "distance_usd": 1010.7142857142857,
+          "cost_pct": 83.65846943942347
+        },
+        {
+          "distance_usd": 1028.5714285714284,
+          "cost_pct": 83.05972329601389
+        },
+        {
+          "distance_usd": 1046.4285714285716,
+          "cost_pct": 82.47128310727862
+        },
+        {
+          "distance_usd": 1064.2857142857142,
+          "cost_pct": 81.89280008454665
+        },
+        {
+          "distance_usd": 1082.142857142857,
+          "cost_pct": 81.32394285121171
+        },
+        {
+          "distance_usd": 1100.0,
+          "cost_pct": 80.76439630269465
+        },
+        {
+          "distance_usd": 1117.857142857143,
+          "cost_pct": 80.21386055820855
+        },
+        {
+          "distance_usd": 1135.7142857142858,
+          "cost_pct": 79.67204999559644
+        },
+        {
+          "distance_usd": 1153.5714285714287,
+          "cost_pct": 79.13869236146385
+        },
+        {
+          "distance_usd": 1171.4285714285713,
+          "cost_pct": 78.61352794966609
+        },
+        {
+          "distance_usd": 1189.2857142857142,
+          "cost_pct": 78.09630884194462
+        },
+        {
+          "distance_usd": 1207.142857142857,
+          "cost_pct": 77.58679820515451
+        },
+        {
+          "distance_usd": 1225.0,
+          "cost_pct": 77.08476964009606
+        },
+        {
+          "distance_usd": 1242.857142857143,
+          "cost_pct": 76.59000657746935
+        },
+        {
+          "distance_usd": 1260.7142857142858,
+          "cost_pct": 76.10230171691825
+        },
+        {
+          "distance_usd": 1278.5714285714287,
+          "cost_pct": 75.62145650552637
+        },
+        {
+          "distance_usd": 1296.4285714285713,
+          "cost_pct": 75.14728065248232
+        },
+        {
+          "distance_usd": 1314.2857142857142,
+          "cost_pct": 74.6795916769446
+        },
+        {
+          "distance_usd": 1332.142857142857,
+          "cost_pct": 74.21821448641796
+        },
+        {
+          "distance_usd": 1350.0,
+          "cost_pct": 73.762980983203
+        },
+        {
+          "distance_usd": 1367.857142857143,
+          "cost_pct": 73.31372969670576
+        },
+        {
+          "distance_usd": 1385.7142857142858,
+          "cost_pct": 72.87030543959403
+        },
+        {
+          "distance_usd": 1403.5714285714287,
+          "cost_pct": 72.43255898596908
+        },
+        {
+          "distance_usd": 1421.4285714285713,
+          "cost_pct": 72.00034676988165
+        },
+        {
+          "distance_usd": 1439.2857142857142,
+          "cost_pct": 71.57353060266917
+        },
+        {
+          "distance_usd": 1457.142857142857,
+          "cost_pct": 71.15197740772078
+        },
+        {
+          "distance_usd": 1475.0,
+          "cost_pct": 70.73555897139701
+        },
+        {
+          "distance_usd": 1492.857142857143,
+          "cost_pct": 70.3241517089372
+        },
+        {
+          "distance_usd": 1510.7142857142858,
+          "cost_pct": 69.91763644428556
+        },
+        {
+          "distance_usd": 1528.5714285714287,
+          "cost_pct": 69.51589820285417
+        },
+        {
+          "distance_usd": 1546.4285714285713,
+          "cost_pct": 69.11882601632178
+        },
+        {
+          "distance_usd": 1564.2857142857142,
+          "cost_pct": 68.72631273863854
+        },
+        {
+          "distance_usd": 1582.142857142857,
+          "cost_pct": 68.33825487247435
+        },
+        {
+          "distance_usd": 1600.0,
+          "cost_pct": 67.95455240540645
+        },
+        {
+          "distance_usd": 1617.857142857143,
+          "cost_pct": 67.57510865519848
+        },
+        {
+          "distance_usd": 1635.7142857142858,
+          "cost_pct": 67.19983012357204
+        },
+        {
+          "distance_usd": 1653.5714285714287,
+          "cost_pct": 66.82862635791679
+        },
+        {
+          "distance_usd": 1671.4285714285713,
+          "cost_pct": 66.46140982042851
+        },
+        {
+          "distance_usd": 1689.2857142857142,
+          "cost_pct": 66.09809576420048
+        },
+        {
+          "distance_usd": 1707.142857142857,
+          "cost_pct": 65.7386021158301
+        },
+        {
+          "distance_usd": 1725.0,
+          "cost_pct": 65.3828493641337
+        },
+        {
+          "distance_usd": 1742.857142857143,
+          "cost_pct": 65.0307604545921
+        },
+        {
+          "distance_usd": 1760.7142857142858,
+          "cost_pct": 64.68226068917625
+        },
+        {
+          "distance_usd": 1778.5714285714287,
+          "cost_pct": 64.33727763122758
+        },
+        {
+          "distance_usd": 1796.4285714285713,
+          "cost_pct": 63.99574101508972
+        },
+        {
+          "distance_usd": 1814.2857142857142,
+          "cost_pct": 63.65758266020964
+        },
+        {
+          "distance_usd": 1832.142857142857,
+          "cost_pct": 63.322736389445595
+        },
+        {
+          "distance_usd": 1850.0,
+          "cost_pct": 62.99113795133718
+        },
+        {
+          "distance_usd": 1867.857142857143,
+          "cost_pct": 62.662724946108824
+        },
+        {
+          "distance_usd": 1885.7142857142858,
+          "cost_pct": 62.33743675519412
+        },
+        {
+          "distance_usd": 1903.5714285714287,
+          "cost_pct": 62.015214474080665
+        },
+        {
+          "distance_usd": 1921.4285714285713,
+          "cost_pct": 61.69600084829125
+        },
+        {
+          "distance_usd": 1939.2857142857142,
+          "cost_pct": 61.37974021232543
+        },
+        {
+          "distance_usd": 1957.142857142857,
+          "cost_pct": 61.06637843139998
+        },
+        {
+          "distance_usd": 1975.0,
+          "cost_pct": 60.755862845835
+        },
+        {
+          "distance_usd": 1992.857142857143,
+          "cost_pct": 60.44814221794314
+        },
+        {
+          "distance_usd": 2010.7142857142858,
+          "cost_pct": 60.14316668128754
+        },
+        {
+          "distance_usd": 2028.5714285714287,
+          "cost_pct": 59.84088769218357
+        },
+        {
+          "distance_usd": 2046.4285714285713,
+          "cost_pct": 59.541257983325465
+        },
+        {
+          "distance_usd": 2064.285714285714,
+          "cost_pct": 59.244231519427615
+        },
+        {
+          "distance_usd": 2082.142857142857,
+          "cost_pct": 58.9497634547767
+        },
+        {
+          "distance_usd": 2100.0,
+          "cost_pct": 58.657810092595525
+        },
+        {
+          "distance_usd": 2117.857142857143,
+          "cost_pct": 58.368328846128406
+        },
+        {
+          "distance_usd": 2135.714285714286,
+          "cost_pct": 58.081278201359225
+        },
+        {
+          "distance_usd": 2153.5714285714284,
+          "cost_pct": 57.79661768128244
+        },
+        {
+          "distance_usd": 2171.4285714285716,
+          "cost_pct": 57.51430781164902
+        },
+        {
+          "distance_usd": 2189.285714285714,
+          "cost_pct": 57.23431008811514
+        },
+        {
+          "distance_usd": 2207.1428571428573,
+          "cost_pct": 56.95658694472547
+        },
+        {
+          "distance_usd": 2225.0,
+          "cost_pct": 56.68110172366562
+        },
+        {
+          "distance_usd": 2242.8571428571427,
+          "cost_pct": 56.40781864622477
+        },
+        {
+          "distance_usd": 2260.714285714286,
+          "cost_pct": 56.13670278490861
+        },
+        {
+          "distance_usd": 2278.5714285714284,
+          "cost_pct": 55.86772003664959
+        },
+        {
+          "distance_usd": 2296.4285714285716,
+          "cost_pct": 55.60083709706356
+        },
+        {
+          "distance_usd": 2314.285714285714,
+          "cost_pct": 55.33602143570249
+        },
+        {
+          "distance_usd": 2332.1428571428573,
+          "cost_pct": 55.073241272259
+        },
+        {
+          "distance_usd": 2350.0,
+          "cost_pct": 54.81246555367807
+        },
+        {
+          "distance_usd": 2367.8571428571427,
+          "cost_pct": 54.55366393213535
+        },
+        {
+          "distance_usd": 2385.714285714286,
+          "cost_pct": 54.29680674384264
+        },
+        {
+          "distance_usd": 2403.5714285714284,
+          "cost_pct": 54.0418649886434
+        },
+        {
+          "distance_usd": 2421.4285714285716,
+          "cost_pct": 53.78881031036417
+        },
+        {
+          "distance_usd": 2439.285714285714,
+          "cost_pct": 53.53761497788685
+        },
+        {
+          "distance_usd": 2457.1428571428573,
+          "cost_pct": 53.288251866912276
+        },
+        {
+          "distance_usd": 2475.0,
+          "cost_pct": 53.0406944423832
+        },
+        {
+          "distance_usd": 2492.8571428571427,
+          "cost_pct": 52.79491674153991
+        },
+        {
+          "distance_usd": 2510.714285714286,
+          "cost_pct": 52.550893357579696
+        },
+        {
+          "distance_usd": 2528.5714285714284,
+          "cost_pct": 52.30859942389651
+        },
+        {
+          "distance_usd": 2546.4285714285716,
+          "cost_pct": 52.068010598873855
+        },
+        {
+          "distance_usd": 2564.285714285714,
+          "cost_pct": 51.82910305121021
+        },
+        {
+          "distance_usd": 2582.1428571428573,
+          "cost_pct": 51.59185344575303
+        },
+        {
+          "distance_usd": 2600.0,
+          "cost_pct": 51.35623892982102
+        }
+      ]
+    }
+  ],
+  "sample": {
+    "weeks": 27,
+    "expiry_from": "2026-05-29",
+    "expiry_through": "2026-11-27",
+    "included_expiries": [
+      "2026-05-29",
+      "2026-06-05",
+      "2026-06-12",
+      "2026-06-19",
+      "2026-06-26",
+      "2026-07-03",
+      "2026-07-10",
+      "2026-07-17",
+      "2026-07-24",
+      "2026-07-31",
+      "2026-08-07",
+      "2026-08-14",
+      "2026-08-21",
+      "2026-08-28",
+      "2026-09-04",
+      "2026-09-11",
+      "2026-09-18",
+      "2026-09-25",
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27"
+    ],
+    "weeks_in_calendar_span": 27,
+    "excluded": [],
+    "distances": 10,
+    "scenario_weeks": 540
+  },
+  "evidence_ru": {
+    "sample": "Длина истории измеряется неделями. Разные расстояния и варианты расчёта используют одну и ту же историю.",
+    "sensitivity": "Отдельные недели способны заметно менять среднее и выбор настроек.",
+    "future_validation": "Результаты новых недель учитываются отдельно при настройках, зафиксированных до расчёта.",
+    "scope": "Расходы на хеджирование не описывают прибыльность и риск всей опционной позиции."
+  },
+  "units": {
+    "distance": "USD",
+    "cost": "percent_per_year"
+  },
+  "interpretation_ru": {
+    "cost": "Расходы на хеджирование приведены к году для сравнения. Меньше — дешевле. Премия от продажи опциона не включена.",
+    "points": "Точки показывают средние исторические расходы; линии — сглаженное описание этих точек.",
+    "with_hedging": "Недели, в которых хотя бы один раз открывалась защитная позиция.",
+    "openings": "Общее число открытий защитной позиции. В одной неделе их может быть несколько.",
+    "without_trades": "Недели с данными, но без открытий защитной позиции. Они входят в среднее с нулевыми расходами; это не означает отсутствия рыночного риска.",
+    "median": "Половина недель имела расходы не выше этого значения, половина — не ниже.",
+    "middle_half": "Диапазон для средней половины недельных результатов. Показывает разброс в истории, а не границы будущего результата.",
+    "omit_one": "Диапазон среднего, если по очереди исключать одну неделю, сохраняя остальные условия. Показывает влияние отдельных недель."
+  },
+  "factors_ru": [
+    "Изменения рыночной цены",
+    "Удаление от страйка",
+    "Момент открытия и время нахождения в хедже",
+    "Повторные открытия и закрытия позиций",
+    "Прибыль и убыток хеджирующих сделок",
+    "Комиссии и проскальзывание"
+  ],
+  "schema_version": "1.0.0"
+}
